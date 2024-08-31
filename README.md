@@ -36,7 +36,7 @@ and displays it on the home and profile screens.
 
 ## Installation
 1. **Clone the repository:**
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/DevAcro-lab/flutter_task.git
 2. **Then simply run it in Android Studio or VS code or any other IDE which supports Mobile app development**
 
 ## INSTRUCTION
